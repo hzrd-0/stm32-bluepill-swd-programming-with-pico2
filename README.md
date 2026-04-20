@@ -67,7 +67,7 @@ GPIO 3 > SWDIO
 GPIO 4 > PA10/RX1   //For Serial Monitor
 GPIO 5 > PA9/TX1    //For Serial Monitor
 ```
-
+![Diagram](wiring_1.jpg)
 ---
 
 # Power
