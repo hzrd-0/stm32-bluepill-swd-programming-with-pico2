@@ -52,7 +52,7 @@ https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectron
 Board: Generic STM32F1 series
 Board Part Number: BluePill F103C6(32KB) [Varies]
 U(S)ART support: Enabled (generic 'Serial')
-USB support (if available): CDC (generic 'Serial' supersede U(S)ART)
+USB support (if available): None
 Upload Method: OpenOCD-DAPlink
 ```
 
